@@ -1,0 +1,71 @@
+# MSN-Filters
+!Filters MSN Sponsored Content to improve browser performance
+!MSN sponsored content filters 2018.07.26
+
+www.msn.com###MSN_Firefox_DHP_Banner_version2 > header
+
+www.msn.com##.topheadline-container
+
+www.msn.com###aside
+
+www.msn.com###_mN_dy_652764634
+
+www.msn.com###_mN_dy_353566216
+
+www.msn.com##.show.rc-item.rc-item-js:nth-of-type(1)
+
+www.msn.com##.show.rc-item.rc-item-js:nth-of-type(2)
+
+www.msn.com##.show.rc-item.rc-item-js:nth-of-type(3)
+
+www.msn.com##.show.rc-item.rc-item-js:nth-of-type(4)
+
+www.msn.com##.clearleft.emsinline.section-layout.ec-module
+
+www.msn.com##.-arqdduhiusjyedqt.normalsection:nth-of-type(6) > .full-width > .sectioncontent
+
+www.msn.com##.-acutykcsqht-fbqsuxebtuh
+
+www.msn.com###-aCID_Vyhuven_TXF_Rqdduh_luhiyed8
+
+www.msn.com##.scrolled.-axuqt
+
+www.msn.com##.-aijhyfusedjqyduh:nth-of-type(18) > .stripeouter.finance > .full-width.stripe
+
+www.msn.com##.-aijhyfusedjqyduh:nth-of-type(19) > .stripeouter > .full-width.stripe
+
+www.msn.com###riversection
+
+www.msn.com###MSN_NTP_Faster_Creative
+
+www.msn.com##div.-aijhyfusedjqyduh:nth-of-type(19) > .stripeouter
+
+www.msn.com##div.-aijhyfusedjqyduh:nth-of-type(18) > .stripeouter.finance
+
+www.msn.com###MSN_NTP_Make_Chrome_Better_Creative
+
+www.msn.com##div.-arqdduhiusjyedqt.normalsection:nth-of-type(7)
+
+www.msn.com##div.-arqdduhiusjyedqt.normalsection:nth-of-type(15)
+
+www.msn.com##div.-aijhyfusedjqyduh:nth-of-type(20)
+
+www.msn.com###\32 90892526
+
+www.msn.com###_mN_dy_323412615
+
+!For Chromium
+
+www.msn.com###Microsoft_News_app > header
+
+www.msn.com###_mN_dy_173889085
+
+www.msn.com##div.aaisreevijvtkzferu.normalsection:nth-of-type(15)
+
+www.msn.com##div.aaijkizgvtfekrzevi:nth-of-type(19) > .stripeouter.finance
+
+www.msn.com##div.aaijkizgvtfekrzevi:nth-of-type(20)
+
+www.msn.com##div.aaisreevijvtkzferu.normalsection:nth-of-type(7)
+
+www.msn.com###\33 11274725
