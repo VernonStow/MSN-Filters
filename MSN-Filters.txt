@@ -69,3 +69,6 @@ www.msn.com##div.aaijkizgvtfekrzevi:nth-of-type(20)
 www.msn.com##div.aaisreevijvtkzferu.normalsection:nth-of-type(7)
 
 www.msn.com###\33 11274725
+
+www.msn.com##.aaidvuzldtriu-gcrtvyfcuvi
+
