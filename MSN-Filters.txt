@@ -1,6 +1,6 @@
 # MSN-Filters
 !Filters MSN Sponsored Content to improve browser performance
-!MSN sponsored content filters 2018.07.26
+!MSN sponsored content filters 2019.06.08
 
 www.msn.com###MSN_Firefox_DHP_Banner_version2 > header
 
@@ -53,6 +53,16 @@ www.msn.com##div.-aijhyfusedjqyduh:nth-of-type(20)
 www.msn.com###\32 90892526
 
 www.msn.com###_mN_dy_323412615
+
+www.msn.com###MSN_DHP_Firefox_Banner_version1 > header
+
+www.msn.com###MSN_Firefox_DHP_Banner_version2 > header
+
+www.msn.com##.topheadline-container
+
+www.msn.com###asideorg
+
+www.msn.com##div.stripecontainer:nth-of-type(9) > .stripeouter.news
 
 !For Chromium
 
